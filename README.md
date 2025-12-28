@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayeem Hasan</h1>
-<div align="center">Software Engineer, <a href="https://www.openrefactory.com/">OpenRefactory, Inc</a></div>
-<div align="center">Previously, Software Engineer, <a href="https://research.samsung.com/srbd">SRBD</a></div>
+<div align="center">Senior Software Engineer, <a href="https://tekarsh.com/">Tekarsh</a></div>
+<div align="center">Previously, Software Engineer at <a href="https://www.openrefactory.com/">OpenRefactory, Inc</a> and <a href="https://research.samsung.com/srbd">SRBD</a></div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanik&label=Profile%20views&color=0e75b6&style=flat" alt="nhanik" /> </p> -->
 
 - 📫 How to reach me **nayeemhasan.nh01@gmail.com**
